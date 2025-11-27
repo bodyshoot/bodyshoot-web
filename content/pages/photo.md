@@ -14,7 +14,7 @@ sections:
         altText: Belt
         elementId: ''
       - type: ImageBlock
-        url: /images/vise-logo.svg
+        url: /images/490588376_17901323961171103_1345283900336997923_n.jpg
         altText: Vise logo
         elementId: ''
       - type: ImageBlock
