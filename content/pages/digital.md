@@ -5,7 +5,7 @@ sections:
   - type: FeaturedPeopleSection
     title:
       type: TitleBlock
-      text: AI Models
+      text: Digital Content
       color: text-dark
       styles:
         self:
