@@ -28,7 +28,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: /digital
+slug: /models
 isDraft: false
 seo:
   type: Seo
