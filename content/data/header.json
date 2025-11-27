@@ -21,7 +21,7 @@
             "type": "Link"
         },
         {
-            "label": "AI Models",
+            "label": "Custom Content",
             "altText": "AI Models",
             "url": "/content",
             "icon": "arrowRight",
