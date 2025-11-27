@@ -3,7 +3,7 @@ type: PageLayout
 title: Portrait Photography
 sections:
   - type: ImageGallerySection
-    subtitle: Our customers
+    subtitle: My Work
     images:
       - type: ImageBlock
         url: /images/465245626_4024518914443320_6368535617694947052_n.jpg
