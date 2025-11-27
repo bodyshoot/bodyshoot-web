@@ -23,7 +23,7 @@
         {
             "label": "Digital Content",
             "altText": "Digital Content",
-            "url": "/blog",
+            "url": "/digital",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
