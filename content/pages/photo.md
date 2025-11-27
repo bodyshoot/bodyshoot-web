@@ -10,7 +10,7 @@ sections:
         altText: Wet bodysuit
         elementId: ''
       - type: ImageBlock
-        url: /images/wellster-logo.svg
+        url: /images/462926638_1453643095322592_4432731392403118286_n.jpg
         altText: Wellster logo
         elementId: ''
       - type: ImageBlock
