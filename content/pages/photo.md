@@ -49,7 +49,7 @@ sections:
         actions: []
         colors: bg-light-fg-dark
       - type: FeaturedItem
-        title: Chunky Cotton Knit Throw
+        title: Garter Belt
         subtitle: $117
         image:
           type: ImageBlock
