@@ -37,7 +37,7 @@ sections:
             justifyContent: center
       - type: FeaturedItem
         title: Bodyscape
-        subtitle: $ 44.99 – $ 90
+        subtitle: ''
         image:
           type: ImageBlock
           url: /images/490588376_17901323961171103_1345283900336997923_n.jpg
