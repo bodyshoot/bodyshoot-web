@@ -15,7 +15,7 @@ sections:
         elementId: ''
       - type: ImageBlock
         url: /images/490588376_17901323961171103_1345283900336997923_n.jpg
-        altText: Vise logo
+        altText: ''
         elementId: ''
       - type: ImageBlock
         url: /images/telus-logo.svg
