@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Featured items section subtitle
+    subtitle: We create new content based on your existing images and videos
     items:
       - type: FeaturedItem
         title: Image Generation
