@@ -23,7 +23,7 @@
         {
             "label": "AI Models",
             "altText": "AI Models",
-            "url": "/models",
+            "url": "/content",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
