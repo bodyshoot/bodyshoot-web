@@ -21,7 +21,7 @@
             "type": "Link"
         },
         {
-            "label": "Digital Content",
+            "label": "AI Models",
             "altText": "Digital Content",
             "url": "/models",
             "icon": "arrowRight",
