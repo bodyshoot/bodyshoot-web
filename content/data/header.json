@@ -23,7 +23,7 @@
         {
             "label": "Digital Content",
             "altText": "Digital Content",
-            "url": "/digital",
+            "url": "/models",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
