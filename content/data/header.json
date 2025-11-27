@@ -21,18 +21,18 @@
             "type": "Link"
         },
         {
-            "label": "Digital Content",
-            "altText": "Digital Content",
-            "url": "/digital",
+            "label": "AI Models",
+            "altText": "AI Models",
+            "url": "/models",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "AI Models",
-            "altText": "AI Models",
-            "url": "/models",
+            "label": "Digital Content",
+            "altText": "Digital Content",
+            "url": "/digital",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
