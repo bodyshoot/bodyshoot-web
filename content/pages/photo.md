@@ -1,40 +1,7 @@
 ---
 type: PageLayout
 title: Portrait Photography
-sections:
-  - type: ImageGallerySection
-    subtitle: My Work
-    images:
-      - type: ImageBlock
-        url: /images/465245626_4024518914443320_6368535617694947052_n.jpg
-        altText: Wet bodysuit
-        elementId: ''
-      - type: ImageBlock
-        url: /images/462926638_1453643095322592_4432731392403118286_n.jpg
-        altText: Belt
-        elementId: ''
-      - type: ImageBlock
-        url: /images/490588376_17901323961171103_1345283900336997923_n.jpg
-        altText: ''
-        elementId: ''
-    elementId: ''
-    motion: move-to-left
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        margin:
-          - mt-0
-          - ml-0
-          - mb-0
-          - mr-0
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-      subtitle:
-        textAlign: center
+sections: []
 slug: photo
 isDraft: false
 seo:
