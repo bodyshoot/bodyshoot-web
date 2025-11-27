@@ -21,18 +21,18 @@
             "type": "Link"
         },
         {
-            "label": "Custom Content",
-            "altText": "",
-            "url": "/content",
+            "label": "Digital Content",
+            "altText": "Digital Content",
+            "url": "/digital",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
             "type": "Link"
         },
         {
-            "label": "Digital Content",
-            "altText": "Digital Content",
-            "url": "/digital",
+            "label": "Custom Content",
+            "altText": "",
+            "url": "/content",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
