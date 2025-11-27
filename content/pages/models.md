@@ -1,6 +1,6 @@
 ---
 type: PageLayout
-title: AI Models
+title: Custom Content
 sections:
   - type: FeaturedItemsSection
     title:
