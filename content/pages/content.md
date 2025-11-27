@@ -73,7 +73,7 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-slug: models
+slug: content
 isDraft: false
 seo:
   type: Seo
