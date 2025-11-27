@@ -40,7 +40,7 @@ sections:
         subtitle: $ 44.99 – $ 90
         image:
           type: ImageBlock
-          url: /images/img-placeholder.svg
+          url: /images/490588376_17901323961171103_1345283900336997923_n.jpg
           altText: Cotton Knit Throws
           elementId: ''
           styles:
