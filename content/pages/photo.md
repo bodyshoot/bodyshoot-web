@@ -13,7 +13,7 @@ sections:
     items:
       - type: FeaturedItem
         title: Wet & Wild
-        subtitle: $ 88 – $ 176
+        subtitle: ''
         image:
           type: ImageBlock
           url: /images/465245626_4024518914443320_6368535617694947052_n.jpg
