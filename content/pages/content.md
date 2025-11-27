@@ -19,7 +19,7 @@ sections:
     actions: []
     media:
       type: VideoBlock
-      title: Title of the video
+      title: Cowgirl
       url: /images/cowgirl.mp4
       autoplay: true
       loop: true
