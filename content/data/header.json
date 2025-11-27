@@ -14,7 +14,7 @@
     "primaryLinks": [
         {
             "label": "Portrait Photography",
-            "url": "/pricing",
+            "url": "/photo",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
