@@ -50,7 +50,7 @@ sections:
         colors: bg-light-fg-dark
       - type: FeaturedItem
         title: Garter Belt
-        subtitle: $117
+        subtitle: ''
         image:
           type: ImageBlock
           url: /images/462926638_1453643095322592_4432731392403118286_n.jpg
