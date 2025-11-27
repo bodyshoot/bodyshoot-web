@@ -7,7 +7,7 @@ sections:
     images:
       - type: ImageBlock
         url: /images/465245626_4024518914443320_6368535617694947052_n.jpg
-        altText: Empathy logo
+        altText: Wet bodysuit
         elementId: ''
       - type: ImageBlock
         url: /images/wellster-logo.svg
