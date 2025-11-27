@@ -12,16 +12,7 @@ sections:
       Capturing the beauty of the feminine body with my camera, or creating
       digital divas with Artificial Intelligence, beauty its served and art its
       created.
-    actions:
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
+    actions: []
     media:
       url: /images/438861333_747881620659727_8570444368220598263_n.jpg
       altText: Unblock your team boost your time to production preview
