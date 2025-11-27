@@ -14,16 +14,7 @@
     "primaryLinks": [
         {
             "label": "Portrait Photography",
-            "url": "/pricing",
-            "icon": "arrowRight",
-            "iconPosition": "right",
-            "style": "secondary",
-            "type": "Link"
-        },
-        {
-            "label": "Digital Content",
-            "altText": "Blog",
-            "url": "/blog",
+            "url": "/photo",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
@@ -31,8 +22,17 @@
         },
         {
             "label": "AI Models",
-            "altText": "Careers page",
-            "url": "/careers",
+            "altText": "AI Models",
+            "url": "/models",
+            "icon": "arrowRight",
+            "iconPosition": "right",
+            "style": "secondary",
+            "type": "Link"
+        },
+        {
+            "label": "Custom Content",
+            "altText": "",
+            "url": "/content",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "secondary",
