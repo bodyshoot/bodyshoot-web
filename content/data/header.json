@@ -22,7 +22,7 @@
         },
         {
             "label": "Custom Content",
-            "altText": "AI Models",
+            "altText": "",
             "url": "/content",
             "icon": "arrowRight",
             "iconPosition": "right",
